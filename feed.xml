@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>PDFFlyers.com</title>
+    <link href="https://jmalinie.github.io/maktuel/feed.xml" rel="self" />
+    <link href="https://jmalinie.github.io/maktuel" />
+    <updated>2023-02-11T19:12:39+03:00</updated>
+    <author>
+        <name>Gazi</name>
+    </author>
+    <id>https://jmalinie.github.io/maktuel</id>
+
+    <entry>
+        <title>title of new publication</title>
+        <author>
+            <name>Gazi</name>
+        </author>
+        <link href="https://jmalinie.github.io/maktuel/title-of-new-publication.html"/>
+        <id>https://jmalinie.github.io/maktuel/title-of-new-publication.html</id>
+
+        <updated>2023-02-11T19:12:39+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Hey title of orered pages are here;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hey title of orered pages are here;</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://jmalinie.github.io/maktuel/media/posts/1/4cdd61e1-2bb4-4ead-a9e9-4e822cdd56f1.png" alt="" width="1920" height="3070" sizes="100vw" srcset="https://jmalinie.github.io/maktuel/media/posts/1/responsive/4cdd61e1-2bb4-4ead-a9e9-4e822cdd56f1-xs.png 300w ,https://jmalinie.github.io/maktuel/media/posts/1/responsive/4cdd61e1-2bb4-4ead-a9e9-4e822cdd56f1-sm.png 480w ,https://jmalinie.github.io/maktuel/media/posts/1/responsive/4cdd61e1-2bb4-4ead-a9e9-4e822cdd56f1-md.png 768w ,https://jmalinie.github.io/maktuel/media/posts/1/responsive/4cdd61e1-2bb4-4ead-a9e9-4e822cdd56f1-lg.png 1024w ,https://jmalinie.github.io/maktuel/media/posts/1/responsive/4cdd61e1-2bb4-4ead-a9e9-4e822cdd56f1-xl.png 1360w ,https://jmalinie.github.io/maktuel/media/posts/1/responsive/4cdd61e1-2bb4-4ead-a9e9-4e822cdd56f1-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

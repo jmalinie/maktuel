@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jmalinie.github.io/maktuel/sitemap.xml
