@@ -3,7 +3,7 @@
     <title>Maktuel.com</title>
     <link href="https://www.maktuel.com/feed.xml" rel="self" />
     <link href="https://www.maktuel.com" />
-    <updated>2023-06-24T19:39:24+03:00</updated>
+    <updated>2023-06-24T19:48:52+03:00</updated>
     <author>
         <name>Maktuel</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://www.maktuel.com/a101-hairan-aktueel-afisleri.html"/>
         <id>https://www.maktuel.com/a101-hairan-aktueel-afisleri.html</id>
         <media:content url="https://www.maktuel.com/media/posts/2/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-2.jpg" medium="image" />
+            <category term="A101"/>
 
-        <updated>2023-06-24T19:36:47+03:00</updated>
+        <updated>2023-06-24T19:48:41+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -36,8 +37,9 @@
         <link href="https://www.maktuel.com/coming-soon.html"/>
         <id>https://www.maktuel.com/coming-soon.html</id>
         <media:content url="https://www.maktuel.com/media/posts/1/463e78a8-6dc7-4599-b0d2-5d4843681dae.jpg" medium="image" />
+            <category term="A101"/>
 
-        <updated>2023-06-24T19:39:24+03:00</updated>
+        <updated>2023-06-24T19:48:52+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
