@@ -3,7 +3,7 @@
     <title>Maktuel.com</title>
     <link href="https://www.maktuel.com/feed.xml" rel="self" />
     <link href="https://www.maktuel.com" />
-    <updated>2023-06-24T19:57:56+03:00</updated>
+    <updated>2023-06-24T23:10:57+03:00</updated>
     <author>
         <name>Maktuel</name>
     </author>
@@ -19,12 +19,19 @@
         <media:content url="https://www.maktuel.com/media/posts/2/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-2.jpg" medium="image" />
             <category term="A101"/>
 
-        <updated>2023-06-24T19:48:41+03:00</updated>
-            <summary></summary>
+        <updated>2023-06-24T23:10:57+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.maktuel.com/media/posts/2/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-2.jpg" alt="" />
+                    <figure class="post__image post__image--full"><img loading="lazy"  src="https://www.maktuel.com/media/posts/2/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811.jpg" alt="" width="1127" height="1690" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-xs.jpg 384w ,https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-sm.jpg 600w ,https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-md.jpg 768w ,https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-lg.jpg 1200w ,https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-xl.jpg 1600w"></figure>
+
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.maktuel.com/media/posts/2/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-2.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image post__image--full"><img loading="lazy"  src="https://www.maktuel.com/media/posts/2/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811.jpg" alt="" width="1127" height="1690" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-xs.jpg 384w ,https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-sm.jpg 600w ,https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-md.jpg 768w ,https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-lg.jpg 1200w ,https://www.maktuel.com/media/posts/2/responsive/39e8a2e4-bc0c-4f06-b59f-c2bd20d72811-xl.jpg 1600w"></figure>
+
 <figure class="post__image post__image--full"><img loading="lazy"  src="https://www.maktuel.com/media/posts/2/463e78a8-6dc7-4599-b0d2-5d4843681dae.jpg" alt="" width="1127" height="1690" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.maktuel.com/media/posts/2/responsive/463e78a8-6dc7-4599-b0d2-5d4843681dae-xs.jpg 384w ,https://www.maktuel.com/media/posts/2/responsive/463e78a8-6dc7-4599-b0d2-5d4843681dae-sm.jpg 600w ,https://www.maktuel.com/media/posts/2/responsive/463e78a8-6dc7-4599-b0d2-5d4843681dae-md.jpg 768w ,https://www.maktuel.com/media/posts/2/responsive/463e78a8-6dc7-4599-b0d2-5d4843681dae-lg.jpg 1200w ,https://www.maktuel.com/media/posts/2/responsive/463e78a8-6dc7-4599-b0d2-5d4843681dae-xl.jpg 1600w"></figure>
             ]]>
         </content>
