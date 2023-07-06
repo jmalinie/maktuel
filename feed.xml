@@ -3,7 +3,7 @@
     <title>Maktuel.com</title>
     <link href="https://www.maktuel.com/feed.xml" rel="self" />
     <link href="https://www.maktuel.com" />
-    <updated>2023-07-06T11:37:18+03:00</updated>
+    <updated>2023-07-06T11:43:19+03:00</updated>
     <author>
         <name>Maktuel</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://www.maktuel.com/media/posts/25/831-6-19temmuz-migroskop-638241639805182504_Sayfa_01.png" medium="image" />
             <category term="Migros"/>
 
-        <updated>2023-07-06T11:37:18+03:00</updated>
+        <updated>2023-07-06T11:43:19+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.maktuel.com/media/posts/25/831-6-19temmuz-migroskop-638241639805182504_Sayfa_01.png" alt="" />
@@ -29,7 +29,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.maktuel.com/media/posts/25/831-6-19temmuz-migroskop-638241639805182504_Sayfa_01.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
 <figure class="gallery__item"><a href="https://www.maktuel.com/media/posts/25/gallery/831-6-19temmuz-migroskop-638241639805182504_Sayfa_01.png" data-size="638x909"><img decoding="async" loading="lazy" src="https://www.maktuel.com/media/posts/25/gallery/831-6-19temmuz-migroskop-638241639805182504_Sayfa_01-thumbnail.webp" alt="" width="638" height="909"></a></figure>
 <figure class="gallery__item"><a href="https://www.maktuel.com/media/posts/25/gallery/831-6-19temmuz-migroskop-638241639805182504_Sayfa_02.png" data-size="638x909"><img decoding="async" loading="lazy" src="https://www.maktuel.com/media/posts/25/gallery/831-6-19temmuz-migroskop-638241639805182504_Sayfa_02-thumbnail.webp" alt="" width="638" height="909"></a></figure>
 <figure class="gallery__item"><a href="https://www.maktuel.com/media/posts/25/gallery/831-6-19temmuz-migroskop-638241639805182504_Sayfa_03.png" data-size="638x909"><img decoding="async" loading="lazy" src="https://www.maktuel.com/media/posts/25/gallery/831-6-19temmuz-migroskop-638241639805182504_Sayfa_03-thumbnail.webp" alt="" width="638" height="909"></a></figure>
